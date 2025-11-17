@@ -5,7 +5,7 @@
 **Standard:** BEP-20  
 **Decimals:** 18  
 **Network:** Binance Smart Chain (BSC)  
-**Contract Address:** [0x536a1309502507aD3936Fee749756C2da0daC5C4](https://bscscan.com/token/0xC9Aa04758559DAcf7C5D9e41ed28E3595cC8ED58)  
+**Contract Address:** [0xC9Aa04758559DAcf7C5D9e41ed28E3595cC8ED58](https://bscscan.com/token/0xC9Aa04758559DAcf7C5D9e41ed28E3595cC8ED58)  
 **Liquidity Pair:** [ILLYRIAN / USDT Pair](https://bscscan.com/address/0x536a1309502507aD3936Fee749756C2da0daC5C4)  
 
 ---
