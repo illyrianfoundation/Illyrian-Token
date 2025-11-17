@@ -18,7 +18,7 @@ It is designed to maintain a stable on-chain reference value of **1 ILYRIAN = 1 
 ## Links
 - 🌐 Website: [https://illyriantoken.com](https://illyriantoken.com)  
 - 📜 Whitepaper: [https://illyrian-token-foundation.gitbook.io/illyrian-token-whitepaper/](https://illyrian-token-foundation.gitbook.io/illyrian-token-whitepaper/)  
-- 🔗 Contract: [BscScan](https://bscscan.com/address/0xee241950BbD7e93D9b6d93d3F831050719A8FB65)  
+- 🔗 Contract: [BscScan](https://bscscan.com/address/0x536a1309502507aD3936Fee749756C2da0daC5C4)  
 - 🧠 GitHub: [Illyrian Token Repository](https://github.com/illyrianfoundation/Illyrian-Token)  
 - 🕊 Twitter: [@illyrian_token](https://twitter.com/illyrian_token)
 
